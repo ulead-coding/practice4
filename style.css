@@ -48,11 +48,14 @@ p {
 }
 .test {
     display: flex;
+    width: 90%;
     margin: 0 auto;
+
+    
 
 }
 .test img {
     width:30%;
-    margin: 1.5%;
+    margin: 2%;
     
 }
