@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.main {
+    background-image: url(sunset.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 666px;
+    
+}
+.main2 {
+    background-image: url(sunset.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 60%;
+    margin: 0 auto;
+}
+p {
+    margin-top: 5%;
+}
+.main p {
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+.main2 p {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+.round img {
+    border-radius: 50%;
+    width: 310px;
+    height: 310px;
+    background-position: center;
+    object-fit: cover;
+}
+.round {
+    text-align: center;
+   }
+.Test {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.test {
+    display: flex;
+    margin: 0 auto;
+
+}
+.test img {
+    width:30%;
+    margin: 1.5%;
+    
+}
